@@ -1,0 +1,40 @@
+7:00
+-Se mejoró el escenario inicial (Tablero, cubiculo, puerta)
+-Se scripteo el abrir y cerra puerta con promptMessag
+-Se creó interacciones con el personaje
+9:00
+-(SE ARREGLO GLITCH DE SCENE)
+-Se creó un HealthUI con sistema de vida [Modelos editados por: CS]
+13.30
+-ADDED TEXTURES
+-CREATED MATERIALS (TABLERO)
+-SALON 1.0 TERMINADO
+-ADDED MODELS
+-ADDED SOUNDS
+-ADDED HEALING SYSTEM (CACHAZA)
+15.00
+-ADDED LVL SYSTEM
+-ADDED SOUNDS
+-
+
+20.15
+0.04B
+MUSICA AMBIENTAL
+INVENTARIO
+
+24.00
+INICIO CREADO
+ANIMACIONES
+SONIDOS
+ILUMINACION
+
+24.30
+FOOTSTEPS
+AUDIOS
+
+
+IDEAS:
+ANIMACION INVENTARIO
+PROMPTS
+SPRITES
+
